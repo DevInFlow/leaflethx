@@ -1,0 +1,18 @@
+{
+  "name": "leaflethx",
+  "url": "https://github.com/varadig/leaflethx",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "leaflet",
+    "map"
+  ],
+  "description": "LeafletJS haxe extern library",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {}
+}
